@@ -29,7 +29,3 @@ jobs:
         cleanup: false
         dist_dir: ${{ env:GITHUB_WORKSPACE }}/_site 
 
-    # Set up any tools and build steps here
-    - name: Content list
-      uses: enricomarino/actions@v2
-
