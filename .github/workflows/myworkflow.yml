@@ -22,11 +22,10 @@ jobs:
     # Set up any tools and build steps here
 
     # When the dist_dir is ready, deploy it to neocities
-    - name: Deploy to neocities
-      continue-on-error: true
-      uses: bcomnes/deploy-to-neocities@v1 
+    - name: Deploy to Neocities using Ruby CLI
+      uses: jonchang/deploy-neocities@v1
       with:
-        api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-        cleanup: false
-        dist_dir: _site 
+        key: ${{ secrets.NEOCITIES_API_TOKEN }}
+        clean: false
+        dir: _site 
 
