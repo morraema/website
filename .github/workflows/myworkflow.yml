@@ -27,5 +27,5 @@ jobs:
       with:
         api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
         cleanup: false
-        dist_dir: ${{ env:GITHUB_WORKSPACE }}/_site 
+        dist_dir: _site 
 
