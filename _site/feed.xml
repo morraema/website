@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>my dark little crib</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/urban-theme/</link>
-    <atom:link href="http://yourdomain.com/urban-theme/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Jan 2023 21:59:25 +0100</pubDate>
-    <lastBuildDate>Thu, 05 Jan 2023 21:59:25 +0100</lastBuildDate>
+    <link>https://phreq.neocities.com//</link>
+    <atom:link href="https://phreq.neocities.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 Jan 2023 22:39:21 +0100</pubDate>
+    <lastBuildDate>Thu, 05 Jan 2023 22:39:21 +0100</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;p&gt;Bavaria lorem ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Oct 2015 17:39:40 +0200</pubDate>
-        <link>http://yourdomain.com/urban-theme/2015/10/06/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/urban-theme/2015/10/06/welcome-to-jekyll/</guid>
+        <link>https://phreq.neocities.com//2015/10/06/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://phreq.neocities.com//2015/10/06/welcome-to-jekyll/</guid>
         
         
       </item>
