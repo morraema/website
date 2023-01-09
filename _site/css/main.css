@@ -219,7 +219,7 @@ img { max-width: 100%; }
 .contact-list, .social-media-list { list-style: none; margin-left: 0; }
 
 /** Misc */
-.preview-panel { padding: 1rem; box-sizing: border-box; border: 1px solid #fff; }
+.preview-panel { box-sizing: border-box; border: 3px solid #fff; }
 
 .preview-panel:hover { border: 1px solid #e8e8e8; }
 

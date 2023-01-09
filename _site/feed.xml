@@ -4,21 +4,118 @@
     <title>my dark little crib</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://phreq.neocities.com/</link>
-    <atom:link href="https://phreq.neocities.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Jan 2023 22:43:59 +0100</pubDate>
-    <lastBuildDate>Thu, 05 Jan 2023 22:43:59 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 10 Jan 2023 00:45:27 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Jan 2023 00:45:27 +0100</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;&lt;img src=&quot;holder.js/800x600?auto=yes&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Bavaria lorem ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+        <title>Kid Cudi - Man On The Moon</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a46.jpg&quot; alt=&quot;Kid Cudi - Man On The Moon&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Oct 2015 17:39:40 +0200</pubDate>
-        <link>https://phreq.neocities.com/2015/10/06/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">https://phreq.neocities.com/2015/10/06/welcome-to-jekyll/</guid>
+        <pubDate>Wed, 04 Apr 0040 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0040/04/04/kid_cudi_man_on_the_moon/</link>
+        <guid isPermaLink="true">http://localhost:4000/0040/04/04/kid_cudi_man_on_the_moon/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Santigold - Disparate Youth</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a45.jpg&quot; alt=&quot;Nosaj Thing - Master of My Make-Believe&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Mar 0039 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0039/03/03/santigold_master_of_my_make_believe/</link>
+        <guid isPermaLink="true">http://localhost:4000/0039/03/03/santigold_master_of_my_make_believe/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Nosaj thing - Eclipse/Blue</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a44.jpg&quot; alt=&quot;Nosaj Thing - Home&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Feb 0038 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0038/02/02/nosaj_thing_home/</link>
+        <guid isPermaLink="true">http://localhost:4000/0038/02/02/nosaj_thing_home/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Joy Division - She&apos;s Lost Control</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a43.jpg&quot; alt=&quot;Joy Division - Unknown Pleasures&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Jan 0037 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0037/01/01/joy_division_unknown_pleasures/</link>
+        <guid isPermaLink="true">http://localhost:4000/0037/01/01/joy_division_unknown_pleasures/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Peter Gabriel - Solsbury Hill</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a42.jpg&quot; alt=&quot;Peter Gabriel - Peter Gabriel&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Dec 0036 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0036/12/12/peter_gabriel_peter_gabriel/</link>
+        <guid isPermaLink="true">http://localhost:4000/0036/12/12/peter_gabriel_peter_gabriel/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Milva - Alexander Platz</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a41.jpg&quot; alt=&quot;Milva - Was Ich Denke&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Nov 0035 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0035/11/11/milva_was_ich_denke/</link>
+        <guid isPermaLink="true">http://localhost:4000/0035/11/11/milva_was_ich_denke/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Les Deux Love Orchestra - The Moth &amp; The Flame</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a40.jpg&quot; alt=&quot;Les Deux Love Orchestra - Ecstasy&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Oct 0034 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0034/10/10/les_deux_love_orchestra_ecstasy/</link>
+        <guid isPermaLink="true">http://localhost:4000/0034/10/10/les_deux_love_orchestra_ecstasy/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Phoenix - Lisztomania</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a4.jpg&quot; alt=&quot;Phoenix - Wolfgang Amadeus Phoenix&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Sep 0033 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0033/09/09/phoenix_wolfgang_amadeus_phoenix/</link>
+        <guid isPermaLink="true">http://localhost:4000/0033/09/09/phoenix_wolfgang_amadeus_phoenix/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Psychedelic Furs - Love My Way</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a39.jpg&quot; alt=&quot;The Psychedelic Furs - Forever Now&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Aug 0032 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0032/08/08/the_psychedelic_furs_forever_now/</link>
+        <guid isPermaLink="true">http://localhost:4000/0032/08/08/the_psychedelic_furs_forever_now/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Spoon - Everything Hits At Once</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a38.jpg&quot; alt=&quot;Spoon - Girls Can Tell&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Jul 0031 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0031/07/07/spoon_girls_can_tell/</link>
+        <guid isPermaLink="true">http://localhost:4000/0031/07/07/spoon_girls_can_tell/</guid>
         
         
       </item>

@@ -56,9 +56,8 @@
  * Misc
  */
 .preview-panel {
-    padding: 1rem;
     box-sizing: border-box;
-    border: 1px solid $color-initial;
+    border: 3px solid $color-initial;
     
     &:hover {
         border: 1px solid $grey-color-light;
