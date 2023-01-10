@@ -1,10 +1,7 @@
 # Site settings
-title: my dark little crib 
-email: no@email.com
+title: phreq's dark little crib  
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  All the music of my life, in one place.
 url: "https://phreq.neocities.com" # the base hostname & protocol for your site
 
 # Build settings

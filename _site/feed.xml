@@ -1,121 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>my dark little crib</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>phreq&apos;s dark little crib</title>
+    <description>All the music of my life, in one place.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Jan 2023 00:45:27 +0100</pubDate>
-    <lastBuildDate>Tue, 10 Jan 2023 00:45:27 +0100</lastBuildDate>
+    <pubDate>Tue, 10 Jan 2023 13:50:42 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Jan 2023 13:50:42 +0100</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
-        <title>Kid Cudi - Man On The Moon</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a46.jpg&quot; alt=&quot;Kid Cudi - Man On The Moon&quot; /&gt;&lt;/p&gt;
+        <title>Elliot Smith - Everything Means Nothing To Me</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a57.jpg&quot; alt=&quot;Elliot Smith - Figure 8&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 04 Apr 0040 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0040/04/04/kid_cudi_man_on_the_moon/</link>
-        <guid isPermaLink="true">http://localhost:4000/0040/04/04/kid_cudi_man_on_the_moon/</guid>
+        <pubDate>Fri, 03 Mar 0051 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0051/03/03/elliot_smith_figure_8/</link>
+        <guid isPermaLink="true">http://localhost:4000/0051/03/03/elliot_smith_figure_8/</guid>
         
         
       </item>
     
       <item>
-        <title>Santigold - Disparate Youth</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a45.jpg&quot; alt=&quot;Nosaj Thing - Master of My Make-Believe&quot; /&gt;&lt;/p&gt;
+        <title>Eddie Vedder - Guaranteed</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a55.jpg&quot; alt=&quot;Eddie Vedder - Into The Wild&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 03 Mar 0039 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0039/03/03/santigold_master_of_my_make_believe/</link>
-        <guid isPermaLink="true">http://localhost:4000/0039/03/03/santigold_master_of_my_make_believe/</guid>
+        <pubDate>Wed, 02 Feb 0050 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0050/02/02/eddie_vedder_into_the_wild/</link>
+        <guid isPermaLink="true">http://localhost:4000/0050/02/02/eddie_vedder_into_the_wild/</guid>
         
         
       </item>
     
       <item>
-        <title>Nosaj thing - Eclipse/Blue</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a44.jpg&quot; alt=&quot;Nosaj Thing - Home&quot; /&gt;&lt;/p&gt;
+        <title>Grouplove - Tongue Tied</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a54.jpg&quot; alt=&quot;Grouplove - Never Trust a Happy Song&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 02 Feb 0038 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0038/02/02/nosaj_thing_home/</link>
-        <guid isPermaLink="true">http://localhost:4000/0038/02/02/nosaj_thing_home/</guid>
+        <pubDate>Fri, 01 Jan 0049 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0049/01/01/grouplove_never_trust_a_happy_song/</link>
+        <guid isPermaLink="true">http://localhost:4000/0049/01/01/grouplove_never_trust_a_happy_song/</guid>
         
         
       </item>
     
       <item>
-        <title>Joy Division - She&apos;s Lost Control</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a43.jpg&quot; alt=&quot;Joy Division - Unknown Pleasures&quot; /&gt;&lt;/p&gt;
+        <title>Brie Larson - Black Sheep</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a53.jpg&quot; alt=&quot;Brie Larson - Black Sheep&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Jan 0037 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0037/01/01/joy_division_unknown_pleasures/</link>
-        <guid isPermaLink="true">http://localhost:4000/0037/01/01/joy_division_unknown_pleasures/</guid>
+        <pubDate>Sat, 12 Dec 0048 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0048/12/12/brie_larson_black_sheep/</link>
+        <guid isPermaLink="true">http://localhost:4000/0048/12/12/brie_larson_black_sheep/</guid>
         
         
       </item>
     
       <item>
-        <title>Peter Gabriel - Solsbury Hill</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a42.jpg&quot; alt=&quot;Peter Gabriel - Peter Gabriel&quot; /&gt;&lt;/p&gt;
+        <title>Q Lazzarus - Goodbye Horses</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a52.jpg&quot; alt=&quot;Q Lazzarus - Goodbye Horses&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Dec 0036 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0036/12/12/peter_gabriel_peter_gabriel/</link>
-        <guid isPermaLink="true">http://localhost:4000/0036/12/12/peter_gabriel_peter_gabriel/</guid>
+        <pubDate>Mon, 11 Nov 0047 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0047/11/11/q_lazzarus_goodbye_horses/</link>
+        <guid isPermaLink="true">http://localhost:4000/0047/11/11/q_lazzarus_goodbye_horses/</guid>
         
         
       </item>
     
       <item>
-        <title>Milva - Alexander Platz</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a41.jpg&quot; alt=&quot;Milva - Was Ich Denke&quot; /&gt;&lt;/p&gt;
+        <title>Alabama Shakes - Always Alright</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a51.jpg&quot; alt=&quot;Alabama Shakes - Always Alright&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 11 Nov 0035 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0035/11/11/milva_was_ich_denke/</link>
-        <guid isPermaLink="true">http://localhost:4000/0035/11/11/milva_was_ich_denke/</guid>
+        <pubDate>Wed, 10 Oct 0046 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0046/10/10/alabama_shakes_always_alright/</link>
+        <guid isPermaLink="true">http://localhost:4000/0046/10/10/alabama_shakes_always_alright/</guid>
         
         
       </item>
     
       <item>
-        <title>Les Deux Love Orchestra - The Moth &amp; The Flame</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a40.jpg&quot; alt=&quot;Les Deux Love Orchestra - Ecstasy&quot; /&gt;&lt;/p&gt;
+        <title>Schneider TM &amp; KPT Michigan - The Light 3000</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a50.jpg&quot; alt=&quot;Schneider TM &amp;amp; KPT Michigan - Binokular&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Oct 0034 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0034/10/10/les_deux_love_orchestra_ecstasy/</link>
-        <guid isPermaLink="true">http://localhost:4000/0034/10/10/les_deux_love_orchestra_ecstasy/</guid>
+        <pubDate>Sat, 09 Sep 0045 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0045/09/09/schneider_tm_kpt_michigan_binokular/</link>
+        <guid isPermaLink="true">http://localhost:4000/0045/09/09/schneider_tm_kpt_michigan_binokular/</guid>
         
         
       </item>
     
       <item>
-        <title>Phoenix - Lisztomania</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a4.jpg&quot; alt=&quot;Phoenix - Wolfgang Amadeus Phoenix&quot; /&gt;&lt;/p&gt;
+        <title>Daft Punk - One More Time</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a5.jpg&quot; alt=&quot;Daft Punk - One More Time&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 09 Sep 0033 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0033/09/09/phoenix_wolfgang_amadeus_phoenix/</link>
-        <guid isPermaLink="true">http://localhost:4000/0033/09/09/phoenix_wolfgang_amadeus_phoenix/</guid>
+        <pubDate>Mon, 08 Aug 0044 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0044/08/08/daft_punk_one_more_time/</link>
+        <guid isPermaLink="true">http://localhost:4000/0044/08/08/daft_punk_one_more_time/</guid>
         
         
       </item>
     
       <item>
-        <title>The Psychedelic Furs - Love My Way</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a39.jpg&quot; alt=&quot;The Psychedelic Furs - Forever Now&quot; /&gt;&lt;/p&gt;
+        <title>Coldplay - Coloratura</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a49.jpg&quot; alt=&quot;Coldplay - Coloratura&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 08 Aug 0032 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0032/08/08/the_psychedelic_furs_forever_now/</link>
-        <guid isPermaLink="true">http://localhost:4000/0032/08/08/the_psychedelic_furs_forever_now/</guid>
+        <pubDate>Tue, 07 Jul 0043 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0043/07/07/coldplay_coloratura/</link>
+        <guid isPermaLink="true">http://localhost:4000/0043/07/07/coldplay_coloratura/</guid>
         
         
       </item>
     
       <item>
-        <title>Spoon - Everything Hits At Once</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a38.jpg&quot; alt=&quot;Spoon - Girls Can Tell&quot; /&gt;&lt;/p&gt;
+        <title>The Strokes - Reptilia</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a48.jpg&quot; alt=&quot;The Strokes - Room On Fire&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 Jul 0031 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0031/07/07/spoon_girls_can_tell/</link>
-        <guid isPermaLink="true">http://localhost:4000/0031/07/07/spoon_girls_can_tell/</guid>
+        <pubDate>Fri, 06 Jun 0042 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0042/06/06/the_strokes_room_on_fire/</link>
+        <guid isPermaLink="true">http://localhost:4000/0042/06/06/the_strokes_room_on_fire/</guid>
         
         
       </item>

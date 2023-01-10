@@ -223,4 +223,6 @@ img { max-width: 100%; }
 
 .preview-panel:hover { border: 1px solid #e8e8e8; }
 
+* { scroll-behavior: smooth; }
+
 /*# sourceMappingURL=main.css.map */
