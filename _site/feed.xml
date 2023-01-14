@@ -6,116 +6,116 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Jan 2023 13:50:42 +0100</pubDate>
-    <lastBuildDate>Tue, 10 Jan 2023 13:50:42 +0100</lastBuildDate>
+    <pubDate>Sat, 14 Jan 2023 23:55:28 +0100</pubDate>
+    <lastBuildDate>Sat, 14 Jan 2023 23:55:28 +0100</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
-        <title>Elliot Smith - Everything Means Nothing To Me</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a57.jpg&quot; alt=&quot;Elliot Smith - Figure 8&quot; /&gt;&lt;/p&gt;
+        <title>Sigur Rós - Með suð í eyrum við spilum endalaust</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a68.jpg&quot; alt=&quot;Sigur Rós - Með suð í eyrum við spilum endalaust&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 03 Mar 0051 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0051/03/03/elliot_smith_figure_8/</link>
-        <guid isPermaLink="true">http://localhost:4000/0051/03/03/elliot_smith_figure_8/</guid>
+        <pubDate>Sat, 03 Mar 0063 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0063/03/03/sigur_ros_meo_suo_i_eyrum_vio_spilum_endalaust/</link>
+        <guid isPermaLink="true">http://localhost:4000/0063/03/03/sigur_ros_meo_suo_i_eyrum_vio_spilum_endalaust/</guid>
         
         
       </item>
     
       <item>
-        <title>Eddie Vedder - Guaranteed</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a55.jpg&quot; alt=&quot;Eddie Vedder - Into The Wild&quot; /&gt;&lt;/p&gt;
+        <title>RJD2 - Ghostwriter</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a67.jpg&quot; alt=&quot;RJD2 - Deadringer&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 02 Feb 0050 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0050/02/02/eddie_vedder_into_the_wild/</link>
-        <guid isPermaLink="true">http://localhost:4000/0050/02/02/eddie_vedder_into_the_wild/</guid>
+        <pubDate>Thu, 02 Feb 0062 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0062/02/02/rjd2_deadringer/</link>
+        <guid isPermaLink="true">http://localhost:4000/0062/02/02/rjd2_deadringer/</guid>
         
         
       </item>
     
       <item>
-        <title>Grouplove - Tongue Tied</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a54.jpg&quot; alt=&quot;Grouplove - Never Trust a Happy Song&quot; /&gt;&lt;/p&gt;
+        <title>Mango - Lei Verrá</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a66.jpg&quot; alt=&quot;Mango - Odissea&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 01 Jan 0049 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0049/01/01/grouplove_never_trust_a_happy_song/</link>
-        <guid isPermaLink="true">http://localhost:4000/0049/01/01/grouplove_never_trust_a_happy_song/</guid>
+        <pubDate>Sat, 01 Jan 0061 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0061/01/01/mango_odissea/</link>
+        <guid isPermaLink="true">http://localhost:4000/0061/01/01/mango_odissea/</guid>
         
         
       </item>
     
       <item>
-        <title>Brie Larson - Black Sheep</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a53.jpg&quot; alt=&quot;Brie Larson - Black Sheep&quot; /&gt;&lt;/p&gt;
+        <title>Zero Assoluto - Per Dimenticare</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a65.jpg&quot; alt=&quot;Zero Assoluto - Sotto Una Pioggia Di Parole&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 12 Dec 0048 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0048/12/12/brie_larson_black_sheep/</link>
-        <guid isPermaLink="true">http://localhost:4000/0048/12/12/brie_larson_black_sheep/</guid>
+        <pubDate>Sun, 12 Dec 0060 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0060/12/12/zero_assoluto_sotto_una_pioggia_di_parole/</link>
+        <guid isPermaLink="true">http://localhost:4000/0060/12/12/zero_assoluto_sotto_una_pioggia_di_parole/</guid>
         
         
       </item>
     
       <item>
-        <title>Q Lazzarus - Goodbye Horses</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a52.jpg&quot; alt=&quot;Q Lazzarus - Goodbye Horses&quot; /&gt;&lt;/p&gt;
+        <title>Elisa, Ligabue - Gli Ostacoli Del Cuore</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a64.jpg&quot; alt=&quot;Elisa - Soundtrack &apos;96-&apos;06&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 11 Nov 0047 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0047/11/11/q_lazzarus_goodbye_horses/</link>
-        <guid isPermaLink="true">http://localhost:4000/0047/11/11/q_lazzarus_goodbye_horses/</guid>
+        <pubDate>Tue, 11 Nov 0059 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0059/11/11/elisa_soundtrack_96_06/</link>
+        <guid isPermaLink="true">http://localhost:4000/0059/11/11/elisa_soundtrack_96_06/</guid>
         
         
       </item>
     
       <item>
-        <title>Alabama Shakes - Always Alright</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a51.jpg&quot; alt=&quot;Alabama Shakes - Always Alright&quot; /&gt;&lt;/p&gt;
+        <title>Moby - In This World</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a63.jpg&quot; alt=&quot;Moby - 18&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 10 Oct 0046 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0046/10/10/alabama_shakes_always_alright/</link>
-        <guid isPermaLink="true">http://localhost:4000/0046/10/10/alabama_shakes_always_alright/</guid>
+        <pubDate>Thu, 10 Oct 0058 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0058/10/10/moby_18/</link>
+        <guid isPermaLink="true">http://localhost:4000/0058/10/10/moby_18/</guid>
         
         
       </item>
     
       <item>
-        <title>Schneider TM &amp; KPT Michigan - The Light 3000</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a50.jpg&quot; alt=&quot;Schneider TM &amp;amp; KPT Michigan - Binokular&quot; /&gt;&lt;/p&gt;
+        <title>Brooke Fraser - Something In The Water</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a62.jpg&quot; alt=&quot;Brooke Fraser - Flags&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 09 Sep 0045 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0045/09/09/schneider_tm_kpt_michigan_binokular/</link>
-        <guid isPermaLink="true">http://localhost:4000/0045/09/09/schneider_tm_kpt_michigan_binokular/</guid>
+        <pubDate>Sun, 09 Sep 0057 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0057/09/09/brooke_fraser_flags/</link>
+        <guid isPermaLink="true">http://localhost:4000/0057/09/09/brooke_fraser_flags/</guid>
         
         
       </item>
     
       <item>
-        <title>Daft Punk - One More Time</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a5.jpg&quot; alt=&quot;Daft Punk - One More Time&quot; /&gt;&lt;/p&gt;
+        <title>Nelly Furtado - Say It Right</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a61.jpg&quot; alt=&quot;Nelly Furtado - Loose&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 08 Aug 0044 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0044/08/08/daft_punk_one_more_time/</link>
-        <guid isPermaLink="true">http://localhost:4000/0044/08/08/daft_punk_one_more_time/</guid>
+        <pubDate>Tue, 08 Aug 0056 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0056/08/08/nelly_furtado_loose/</link>
+        <guid isPermaLink="true">http://localhost:4000/0056/08/08/nelly_furtado_loose/</guid>
         
         
       </item>
     
       <item>
-        <title>Coldplay - Coloratura</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a49.jpg&quot; alt=&quot;Coldplay - Coloratura&quot; /&gt;&lt;/p&gt;
+        <title>Cosmo - Quando ho incontrato te</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a60.jpg&quot; alt=&quot;Cosmo - Cosmotronic&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 07 Jul 0043 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0043/07/07/coldplay_coloratura/</link>
-        <guid isPermaLink="true">http://localhost:4000/0043/07/07/coldplay_coloratura/</guid>
+        <pubDate>Wed, 07 Jul 0055 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0055/07/07/cosmo_cosmotronic/</link>
+        <guid isPermaLink="true">http://localhost:4000/0055/07/07/cosmo_cosmotronic/</guid>
         
         
       </item>
     
       <item>
-        <title>The Strokes - Reptilia</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a48.jpg&quot; alt=&quot;The Strokes - Room On Fire&quot; /&gt;&lt;/p&gt;
+        <title>Nosaj Thing - Aquarium</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a6.jpg&quot; alt=&quot;Nosaj Thing - Views/Octopus EP&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 06 Jun 0042 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0042/06/06/the_strokes_room_on_fire/</link>
-        <guid isPermaLink="true">http://localhost:4000/0042/06/06/the_strokes_room_on_fire/</guid>
+        <pubDate>Sat, 06 Jun 0054 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0054/06/06/nosaj_thing_views_octopus_ep/</link>
+        <guid isPermaLink="true">http://localhost:4000/0054/06/06/nosaj_thing_views_octopus_ep/</guid>
         
         
       </item>

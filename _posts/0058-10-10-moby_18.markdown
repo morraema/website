@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Moby - In This World"
+date:   0058-10-10
+preview: images/a63.jpg
+---
+
+![Moby - 18](/images/a63.jpg)
