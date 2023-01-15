@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sigur Rós - Með suð í eyrum við spilum endalaust"
+title:  "Sigur Rós - Festival"
 date:   0063-03-03
 preview: images/a68.jpg
 ---
