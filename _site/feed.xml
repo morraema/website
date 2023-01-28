@@ -6,9 +6,42 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Jan 2023 16:36:29 +0100</pubDate>
-    <lastBuildDate>Wed, 18 Jan 2023 16:36:29 +0100</lastBuildDate>
+    <pubDate>Sat, 28 Jan 2023 12:48:11 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Jan 2023 12:48:11 +0100</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>The The - This Is The Day</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a95.jpg&quot; alt=&quot;The The - Soul Mining&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Jun 0078 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0078/06/06/the_the_soul_mining/</link>
+        <guid isPermaLink="true">http://localhost:4000/0078/06/06/the_the_soul_mining/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MGMT - Time To Pretend</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a94.jpg&quot; alt=&quot;MGMT - Oracular Spectacular&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 May 0077 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0077/05/05/mgmt_oracular_spectacular/</link>
+        <guid isPermaLink="true">http://localhost:4000/0077/05/05/mgmt_oracular_spectacular/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Temper Trap - Sweet Disposition</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a93.jpg&quot; alt=&quot;The Temper Trap - Conditions&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Apr 0076 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0076/04/04/temper_trap_conditions/</link>
+        <guid isPermaLink="true">http://localhost:4000/0076/04/04/temper_trap_conditions/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Vampire Weekend - Cousins</title>
@@ -83,39 +116,6 @@
         <pubDate>Mon, 09 Sep 0069 00:01:52 +0049</pubDate>
         <link>http://localhost:4000/0069/09/09/zen_circus_la_terza_guerra_mondiale/</link>
         <guid isPermaLink="true">http://localhost:4000/0069/09/09/zen_circus_la_terza_guerra_mondiale/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>My Bloody Valentine - sometimes</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a72.jpg&quot; alt=&quot;My Bloody Valentine - loveless&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 08 Aug 0068 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0068/08/08/my_bloody_valentine_loveless/</link>
-        <guid isPermaLink="true">http://localhost:4000/0068/08/08/my_bloody_valentine_loveless/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Far Caspian - Between Days</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a71.jpg&quot; alt=&quot;Far Caspian - Between Days&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 07 Jul 0067 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0067/07/07/far_caspian_between_days/</link>
-        <guid isPermaLink="true">http://localhost:4000/0067/07/07/far_caspian_between_days/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>ATB - Desperate Religion (Egohead Deluxe Remix)</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a70.jpg&quot; alt=&quot;ATB - Feel Alive&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 06 Jun 0066 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0066/06/06/atb_feel_alive/</link>
-        <guid isPermaLink="true">http://localhost:4000/0066/06/06/atb_feel_alive/</guid>
         
         
       </item>
