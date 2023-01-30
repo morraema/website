@@ -6,9 +6,108 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Jan 2023 12:48:11 +0100</pubDate>
-    <lastBuildDate>Sat, 28 Jan 2023 12:48:11 +0100</lastBuildDate>
+    <pubDate>Mon, 30 Jan 2023 13:39:43 +0100</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2023 13:39:43 +0100</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>New Order - Singularity</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a104.jpg&quot; alt=&quot;New Order - Complete Music&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Mar 0087 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0087/03/03/new_order_complete_music/</link>
+        <guid isPermaLink="true">http://localhost:4000/0087/03/03/new_order_complete_music/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Vampire Weekend - Step</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a103.jpg&quot; alt=&quot;Vampire Weekend - Modern Vampires Of The City&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Feb 0086 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0086/02/02/vampire_weekend_modern_vampires_of_the_city/</link>
+        <guid isPermaLink="true">http://localhost:4000/0086/02/02/vampire_weekend_modern_vampires_of_the_city/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Alan Parsons Project - Sirius</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a102.jpg&quot; alt=&quot;The Alan Parsons Project - Eye In The Sky&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jan 0085 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0085/01/01/alan_parsons_project_eye_in_the_sky/</link>
+        <guid isPermaLink="true">http://localhost:4000/0085/01/01/alan_parsons_project_eye_in_the_sky/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Empire Of The Sun - Walking On A Dream</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a101.jpg&quot; alt=&quot;Empire Of The Sun - Walking On A Dream&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Dec 0084 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0084/12/12/empire_of_the_sun_walking_on_a_dream/</link>
+        <guid isPermaLink="true">http://localhost:4000/0084/12/12/empire_of_the_sun_walking_on_a_dream/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lykke Li (The Magician Remix) - I Follow Rivers</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a100.jpg&quot; alt=&quot;Lykke Li (The Magician Remix) - I Follow Rivers&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Nov 0083 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0083/11/11/lykke_li_i_follow_rivers/</link>
+        <guid isPermaLink="true">http://localhost:4000/0083/11/11/lykke_li_i_follow_rivers/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Young The Giant - Cough Syrup</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a99.jpg&quot; alt=&quot;Young The Giant - Young The Giant&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Oct 0082 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0082/10/10/young_the_giant_young_the_giant/</link>
+        <guid isPermaLink="true">http://localhost:4000/0082/10/10/young_the_giant_young_the_giant/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Pernice Brothers - Baby In Two</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a98.jpg&quot; alt=&quot;Pernice Brothers - Yours, Mine &amp;amp; Ours&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Sep 0081 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0081/09/09/pernice_brothers_yours_mine_ours/</link>
+        <guid isPermaLink="true">http://localhost:4000/0081/09/09/pernice_brothers_yours_mine_ours/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Clan Of Xymox - A Day</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a97.jpg&quot; alt=&quot;Clan Of Xymox - Clan Of Xymox&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Aug 0080 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0080/08/08/clan_of_xymox_clan_of_xymox/</link>
+        <guid isPermaLink="true">http://localhost:4000/0080/08/08/clan_of_xymox_clan_of_xymox/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Grimes - Oblivion</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a96.jpg&quot; alt=&quot;Grimes - Visions&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Jul 0079 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0079/07/07/grimes_visions/</link>
+        <guid isPermaLink="true">http://localhost:4000/0079/07/07/grimes_visions/</guid>
+        
+        
+      </item>
     
       <item>
         <title>The The - This Is The Day</title>
@@ -17,105 +116,6 @@
         <pubDate>Mon, 06 Jun 0078 00:01:52 +0049</pubDate>
         <link>http://localhost:4000/0078/06/06/the_the_soul_mining/</link>
         <guid isPermaLink="true">http://localhost:4000/0078/06/06/the_the_soul_mining/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>MGMT - Time To Pretend</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a94.jpg&quot; alt=&quot;MGMT - Oracular Spectacular&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 05 May 0077 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0077/05/05/mgmt_oracular_spectacular/</link>
-        <guid isPermaLink="true">http://localhost:4000/0077/05/05/mgmt_oracular_spectacular/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Temper Trap - Sweet Disposition</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a93.jpg&quot; alt=&quot;The Temper Trap - Conditions&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 04 Apr 0076 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0076/04/04/temper_trap_conditions/</link>
-        <guid isPermaLink="true">http://localhost:4000/0076/04/04/temper_trap_conditions/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Vampire Weekend - Cousins</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a92.jpg&quot; alt=&quot;Vampire Weekend - Contra&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Mar 0075 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0075/03/03/vampire_weekend_contra/</link>
-        <guid isPermaLink="true">http://localhost:4000/0075/03/03/vampire_weekend_contra/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Supergrass - Alright</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a91.jpg&quot; alt=&quot;Supergrass - I Should Coco&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 02 Feb 0074 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0074/02/02/supergrass_i_should_coco/</link>
-        <guid isPermaLink="true">http://localhost:4000/0074/02/02/supergrass_i_should_coco/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>One Republic - Secrets</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a90.jpg&quot; alt=&quot;One Republic - Waking Up&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Jan 0073 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0073/01/01/one_republic_waking_up/</link>
-        <guid isPermaLink="true">http://localhost:4000/0073/01/01/one_republic_waking_up/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Chemical Brothers - Don&apos;t Think</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a9.jpg&quot; alt=&quot;The Chemical Brothers - Further&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 12 Dec 0072 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0072/12/12/the_chemical_brothers_further/</link>
-        <guid isPermaLink="true">http://localhost:4000/0072/12/12/the_chemical_brothers_further/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Prodigy - Breathe</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a8.jpg&quot; alt=&quot;The Prodigy - The Fat Of The Land&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 11 Nov 0071 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0071/11/11/prodigy_the_fat_of_the_land/</link>
-        <guid isPermaLink="true">http://localhost:4000/0071/11/11/prodigy_the_fat_of_the_land/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Gossip - Four Letter Word</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a74.jpg&quot; alt=&quot;Gossip - Music For Men&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 10 Oct 0070 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0070/10/10/gossip_music_for_men/</link>
-        <guid isPermaLink="true">http://localhost:4000/0070/10/10/gossip_music_for_men/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Zen Circus - L&apos;Anima Non Conta</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a73.jpg&quot; alt=&quot;The Zen Circus - La Terza Guerra Mondiale&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Sep 0069 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0069/09/09/zen_circus_la_terza_guerra_mondiale/</link>
-        <guid isPermaLink="true">http://localhost:4000/0069/09/09/zen_circus_la_terza_guerra_mondiale/</guid>
         
         
       </item>
