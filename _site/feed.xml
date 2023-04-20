@@ -4,19 +4,85 @@
     <title>phreq&apos;s dark little crib</title>
     <description>All the music of my life, in one place.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Jan 2023 13:39:43 +0100</pubDate>
-    <lastBuildDate>Mon, 30 Jan 2023 13:39:43 +0100</lastBuildDate>
+    <link>https://phreq.neocities.com/</link>
+    <atom:link href="https://phreq.neocities.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 20 Apr 2023 22:13:38 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Apr 2023 22:13:38 +0200</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Lucio Dalla - L&apos;Ultima Luna</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a110.jpg&quot; alt=&quot;Lucio Dalla - Lucio Dalla&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Sep 0093 00:01:52 +0049</pubDate>
+        <link>https://phreq.neocities.com/0093/09/09/lucio_dalla_lucio_dalla/</link>
+        <guid isPermaLink="true">https://phreq.neocities.com/0093/09/09/lucio_dalla_lucio_dalla/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bobo Rondelli - Marmellata</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a109.jpg&quot; alt=&quot;Bobo Rondelli - Per Amor Del Cielo&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Aug 0092 00:01:52 +0049</pubDate>
+        <link>https://phreq.neocities.com/0092/08/08/bobo_rondelli_per_amor_del_cielo/</link>
+        <guid isPermaLink="true">https://phreq.neocities.com/0092/08/08/bobo_rondelli_per_amor_del_cielo/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Gorillaz Feat. DRAM - Andromeda</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a108.jpg&quot; alt=&quot;Gorillaz - Andromeda&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Jul 0091 00:01:52 +0049</pubDate>
+        <link>https://phreq.neocities.com/0091/07/07/gorillaz_dram_andromeda/</link>
+        <guid isPermaLink="true">https://phreq.neocities.com/0091/07/07/gorillaz_dram_andromeda/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lucio Battisti - Il Mio Canto Libero</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a107.jpg&quot; alt=&quot;Lucio Battisti - Il Mio Canto Libero&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Jun 0090 00:01:52 +0049</pubDate>
+        <link>https://phreq.neocities.com/0090/06/06/lucio_battisti_il_mio_canto_libero/</link>
+        <guid isPermaLink="true">https://phreq.neocities.com/0090/06/06/lucio_battisti_il_mio_canto_libero/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hindi Zahra - Fascination</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a106.jpg&quot; alt=&quot;Hindi Zahra - Handmade&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 May 0089 00:01:52 +0049</pubDate>
+        <link>https://phreq.neocities.com/0089/05/05/hindi_zahra_handmade/</link>
+        <guid isPermaLink="true">https://phreq.neocities.com/0089/05/05/hindi_zahra_handmade/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cosmo Pyke - Chronic Sunshine</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a105.jpg&quot; alt=&quot;Cosmo Pyke - Just Cosmo&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Apr 0088 00:01:52 +0049</pubDate>
+        <link>https://phreq.neocities.com/0088/04/04/cosmo_pyke_just_cosmo/</link>
+        <guid isPermaLink="true">https://phreq.neocities.com/0088/04/04/cosmo_pyke_just_cosmo/</guid>
+        
+        
+      </item>
     
       <item>
         <title>New Order - Singularity</title>
         <description>&lt;p&gt;&lt;img src=&quot;/images/a104.jpg&quot; alt=&quot;New Order - Complete Music&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Mar 0087 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0087/03/03/new_order_complete_music/</link>
-        <guid isPermaLink="true">http://localhost:4000/0087/03/03/new_order_complete_music/</guid>
+        <link>https://phreq.neocities.com/0087/03/03/new_order_complete_music/</link>
+        <guid isPermaLink="true">https://phreq.neocities.com/0087/03/03/new_order_complete_music/</guid>
         
         
       </item>
@@ -26,8 +92,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/images/a103.jpg&quot; alt=&quot;Vampire Weekend - Modern Vampires Of The City&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Feb 0086 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0086/02/02/vampire_weekend_modern_vampires_of_the_city/</link>
-        <guid isPermaLink="true">http://localhost:4000/0086/02/02/vampire_weekend_modern_vampires_of_the_city/</guid>
+        <link>https://phreq.neocities.com/0086/02/02/vampire_weekend_modern_vampires_of_the_city/</link>
+        <guid isPermaLink="true">https://phreq.neocities.com/0086/02/02/vampire_weekend_modern_vampires_of_the_city/</guid>
         
         
       </item>
@@ -37,8 +103,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/images/a102.jpg&quot; alt=&quot;The Alan Parsons Project - Eye In The Sky&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jan 0085 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0085/01/01/alan_parsons_project_eye_in_the_sky/</link>
-        <guid isPermaLink="true">http://localhost:4000/0085/01/01/alan_parsons_project_eye_in_the_sky/</guid>
+        <link>https://phreq.neocities.com/0085/01/01/alan_parsons_project_eye_in_the_sky/</link>
+        <guid isPermaLink="true">https://phreq.neocities.com/0085/01/01/alan_parsons_project_eye_in_the_sky/</guid>
         
         
       </item>
@@ -48,74 +114,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/images/a101.jpg&quot; alt=&quot;Empire Of The Sun - Walking On A Dream&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Dec 0084 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0084/12/12/empire_of_the_sun_walking_on_a_dream/</link>
-        <guid isPermaLink="true">http://localhost:4000/0084/12/12/empire_of_the_sun_walking_on_a_dream/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Lykke Li (The Magician Remix) - I Follow Rivers</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a100.jpg&quot; alt=&quot;Lykke Li (The Magician Remix) - I Follow Rivers&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 11 Nov 0083 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0083/11/11/lykke_li_i_follow_rivers/</link>
-        <guid isPermaLink="true">http://localhost:4000/0083/11/11/lykke_li_i_follow_rivers/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Young The Giant - Cough Syrup</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a99.jpg&quot; alt=&quot;Young The Giant - Young The Giant&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 10 Oct 0082 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0082/10/10/young_the_giant_young_the_giant/</link>
-        <guid isPermaLink="true">http://localhost:4000/0082/10/10/young_the_giant_young_the_giant/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pernice Brothers - Baby In Two</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a98.jpg&quot; alt=&quot;Pernice Brothers - Yours, Mine &amp;amp; Ours&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 09 Sep 0081 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0081/09/09/pernice_brothers_yours_mine_ours/</link>
-        <guid isPermaLink="true">http://localhost:4000/0081/09/09/pernice_brothers_yours_mine_ours/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Clan Of Xymox - A Day</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a97.jpg&quot; alt=&quot;Clan Of Xymox - Clan Of Xymox&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 08 Aug 0080 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0080/08/08/clan_of_xymox_clan_of_xymox/</link>
-        <guid isPermaLink="true">http://localhost:4000/0080/08/08/clan_of_xymox_clan_of_xymox/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Grimes - Oblivion</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a96.jpg&quot; alt=&quot;Grimes - Visions&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 07 Jul 0079 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0079/07/07/grimes_visions/</link>
-        <guid isPermaLink="true">http://localhost:4000/0079/07/07/grimes_visions/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The The - This Is The Day</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a95.jpg&quot; alt=&quot;The The - Soul Mining&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 06 Jun 0078 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0078/06/06/the_the_soul_mining/</link>
-        <guid isPermaLink="true">http://localhost:4000/0078/06/06/the_the_soul_mining/</guid>
+        <link>https://phreq.neocities.com/0084/12/12/empire_of_the_sun_walking_on_a_dream/</link>
+        <guid isPermaLink="true">https://phreq.neocities.com/0084/12/12/empire_of_the_sun_walking_on_a_dream/</guid>
         
         
       </item>
