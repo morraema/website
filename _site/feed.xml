@@ -6,9 +6,42 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Apr 2023 19:31:08 +0200</pubDate>
-    <lastBuildDate>Tue, 25 Apr 2023 19:31:08 +0200</lastBuildDate>
+    <pubDate>Sun, 14 May 2023 23:51:58 +0200</pubDate>
+    <lastBuildDate>Sun, 14 May 2023 23:51:58 +0200</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Paul Kalkbrenner - Sky And Sand</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a113.jpg&quot; alt=&quot;Paul Kalkbrenner - Berlin Calling&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Dec 0096 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0096/12/12/paul_kalkbrenner_berlin_calling/</link>
+        <guid isPermaLink="true">http://localhost:4000/0096/12/12/paul_kalkbrenner_berlin_calling/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Asaf Avidan - One Day/Reckoning Song</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a112.jpg&quot; alt=&quot;Asaf Avidan - The Reckoning&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Nov 0095 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0095/11/11/asaf_avidan_the_reckoning/</link>
+        <guid isPermaLink="true">http://localhost:4000/0095/11/11/asaf_avidan_the_reckoning/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Big Black Delta - Capsize</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/a111.jpg&quot; alt=&quot;Big Black Delta - BBDLP1&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Oct 0094 00:01:52 +0049</pubDate>
+        <link>http://localhost:4000/0094/10/10/big_black_delta_bbdlp1/</link>
+        <guid isPermaLink="true">http://localhost:4000/0094/10/10/big_black_delta_bbdlp1/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Lucio Dalla - L&apos;Ultima Luna</title>
@@ -83,39 +116,6 @@
         <pubDate>Mon, 03 Mar 0087 00:01:52 +0049</pubDate>
         <link>http://localhost:4000/0087/03/03/new_order_complete_music/</link>
         <guid isPermaLink="true">http://localhost:4000/0087/03/03/new_order_complete_music/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Vampire Weekend - Step</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a103.jpg&quot; alt=&quot;Vampire Weekend - Modern Vampires Of The City&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Feb 0086 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0086/02/02/vampire_weekend_modern_vampires_of_the_city/</link>
-        <guid isPermaLink="true">http://localhost:4000/0086/02/02/vampire_weekend_modern_vampires_of_the_city/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Alan Parsons Project - Sirius</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a102.jpg&quot; alt=&quot;The Alan Parsons Project - Eye In The Sky&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Jan 0085 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0085/01/01/alan_parsons_project_eye_in_the_sky/</link>
-        <guid isPermaLink="true">http://localhost:4000/0085/01/01/alan_parsons_project_eye_in_the_sky/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Empire Of The Sun - Walking On A Dream</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/a101.jpg&quot; alt=&quot;Empire Of The Sun - Walking On A Dream&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Dec 0084 00:01:52 +0049</pubDate>
-        <link>http://localhost:4000/0084/12/12/empire_of_the_sun_walking_on_a_dream/</link>
-        <guid isPermaLink="true">http://localhost:4000/0084/12/12/empire_of_the_sun_walking_on_a_dream/</guid>
         
         
       </item>
